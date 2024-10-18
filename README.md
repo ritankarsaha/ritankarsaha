@@ -1,72 +1,58 @@
-# 👋 Hi, I'm Ritankar Saha
+<h1 align="center">🙌🏻 Hey there, I am Ritankar Saha</h1>
 
-I'm an aspiring **Web3 and Cloud Engineer** with a deep passion for backend development, **competitive coding**, and exploring emerging technologies. I’m currently a **sophomore student at IIIT Jabalpur**, pursuing my degree in **Computer Science and Engineering**. I enjoy building scalable backend systems, contributing to open-source projects, and working on real-world problems.
+<p align="center">https://ritankarsaha-portfolio.netlify.app/</p>
+<p align="center">https://ritankar-blogging.netlify.app/</p>
+<img align="center" src="https://komarev.com/ghpvc/?username=ritankarsaha&label=My+Visitors&color=blueviolet">
 
----
+<h3>📌&nbsp&nbspAbout me </h3>
+ 
+- 👨🏽‍💻 SDE Intern at Codemod.
+- 👨🏽‍💻 Core Member of Bitbyte, The Programming Club of Indian Institute Of Information Technology , Jabalpur
+- 👨‍🏫 BTech CSE sophmore at Indian Institute Of Information Technology , Jabalpur
+- 👨🏽‍💻 Interested in Competitive Programming, Backend Development, Bitcoin, Web3 and Cloud Technologies.
+- 🌱 I’m currently exploring Spring Boot and Go.
+- 💬 Ask me about Software Development, System Design or Backend Web Development. I'd love to answer!
+- 📫 Email me at ritankar.saha786@gmail.com
+ 
 
-## 🚀 Tech Stack & Skills
 
-### **Programming Languages:**
-- **Go:** Used extensively for backend development, scalable microservices, load balancers, and JWT authentication.
-  - [Go-Backend-Fullscale](https://github.com/ritankarsaha/Go-Backend-Fullscale)
-  - [Golang-JWT-Auth](https://github.com/ritankarsaha/Golang-JWT-Auth)
-- **Python:** Automation, scripting, and **AI/ML** projects using frameworks like **Django**.
-- **Java:** Primarily for **Data Structures and Algorithms** (DSA) and exploring **SpringBoot** and **Kotlin** for web development.
+<hr/>
+<h3>📌&nbsp&nbspTechnologies I've used & 🤹 Skills I've acquired </h3>
+<br>
 
-### **Technologies & Tools:**
-- **Web Frameworks:** Express.js, Next.js, Django, Gin Gonic, SpringBoot
-- **Cloud & DevOps:** Docker, Kubernetes, AWS
-- **Database:** MongoDB, PostgreSQL, MySQL
-- **Version Control:** Git, GitHub
-- **API Development:** RESTful APIs, GraphQL
-- **Web3:** Exploring decentralized applications and blockchain technologies.
+<img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="">  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="">  
 
----
+<img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" alt="">  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" alt=""> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="">  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt=""> <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="">
 
-## 🛠️ Projects
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt=""> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt=""> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt=""> 
 
-- **Go Backend Full-Scale:** A full-scale backend project in Golang focusing on creating robust APIs and services.
-- **Golang JWT Auth:** A secure authentication system using JWT in Golang.
-- **Load Balancer & Rate Limiter (Go):** Reusable components ready for integration into web frameworks.
-- **Django Blog Application:** A scalable blog platform built using Django.
 
----
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="">  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt=""> <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt=""> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="">
 
-## 💡 Future Projects
+<img src="https://img.shields.io/badge/Git-FF4500?style=for-the-badge&logo=git&logoColor=white" alt=""> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt=""> <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt=""> <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="">
 
-- Building Discord and Slack bots with **Go**.
-- Exploring **Go-Fiber** projects and contributing to Web3 solutions.
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt=""> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white" alt=""> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt=""> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt=""> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="">
 
----
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="">
 
-## 🎓 Education
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt=""> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="">
 
-- **IIIT Jabalpur** – B.Tech in Computer Science and Engineering (2026)
+<img src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white" alt=""> <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="">
 
----
+<hr/>
 
-## 🌟 Achievements
 
-- Intern at **Codemod** as a frontend developer.
-- Open-source contributor in **GSSoC**, **GSoC**, and **SoB**.
-- Received an **Explorer Digital Badge** for contributions to **GSSoC**.
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritankarsaha&theme=radical&show_icons=true"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritankarsaha&layout=compact&theme=radical">
+  
+  
 
----
-
-## 🌐 Online Presence
-
-- **Blog:** [ritankar-blogging.netlify.app](https://ritankar-blogging.netlify.app)
-- **GitHub:** [github.com/ritankarsaha](https://github.com/ritankarsaha)
-- **LeetCode:** Actively solving competitive coding challenges.
-- **LinkedIn:** [linkedin.com/in/ritankar-saha](https://www.linkedin.com/in/ritankar-saha)
-
----
-
-## 🎸 Hobbies & Interests
-
-When I’m not coding, I enjoy playing the **guitar** and reading **crime fiction**. I'm also keen on staying updated with the latest trends in AI, ML, and data science.
-
----
-
-Feel free to reach out to collaborate or discuss exciting tech!
-
+<hr/>
+ 
+ <h3>📌&nbsp&nbspFind me on</h3>
+ <br>
+<p>
+  <a href="https://www.linkedin.com/in/ritankar-saha-8041b9289/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin"/>
+  </a>
+</p>
