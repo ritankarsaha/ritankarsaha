@@ -6,7 +6,7 @@
 
 <h3>📌&nbsp&nbspAbout me </h3>
  
-- 👨🏽‍💻 SDE Intern at Codemod.
+- 👨🏽‍💻 Past SDE Intern at Codemod.
 - 👨🏽‍💻 Core Member of Bitbyte, The Programming Club of Indian Institute Of Information Technology , Jabalpur
 - 👨‍🏫 BTech CSE sophmore at Indian Institute Of Information Technology , Jabalpur
 - 👨🏽‍💻 Interested in Competitive Programming, Backend Development, Bitcoin, Web3 and Cloud Technologies.
