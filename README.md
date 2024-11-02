@@ -10,7 +10,7 @@
 - 👨🏽‍💻 Core Member of Bitbyte, The Programming Club of Indian Institute Of Information Technology , Jabalpur
 - 👨‍🏫 BTech CSE sophmore at Indian Institute Of Information Technology , Jabalpur
 - 👨🏽‍💻 Interested in Competitive Programming, Backend Development, Bitcoin, Web3 and Cloud Technologies.
-- 🌱 I’m currently exploring Spring Boot and Go.
+- 🌱 I’m currently exploring Spring Boot, Go & Web3 related technologies.
 - 💬 Ask me about Software Development, System Design or Backend Web Development. I'd love to answer!
 - 📫 Email me at ritankar.saha786@gmail.com
  
