@@ -43,7 +43,8 @@
 <hr/>
 
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritankarsaha&theme=radical&show_icons=true"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritankarsaha&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ritankarsaha&theme=radical&show_icons=true"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritankarsaha&layout=compact&theme=radical">
   
   
 
