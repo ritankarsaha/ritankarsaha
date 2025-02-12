@@ -1,7 +1,6 @@
 <h1 align="center">🙌🏻 Hey there, I am Ritankar Saha</h1>
 
 <p align="center">https://ritankarsaha-portfolio.netlify.app/</p>
-<p align="center">https://ritankar-blogging.netlify.app/</p>
 <img align="center" src="https://komarev.com/ghpvc/?username=ritankarsaha&label=My+Visitors&color=blueviolet">
 
 <h3>📌&nbsp&nbspAbout me </h3>
