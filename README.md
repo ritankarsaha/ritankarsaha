@@ -1,15 +1,18 @@
 <h1 align="center">🙌🏻 Hey there, I am Ritankar Saha</h1>
 
 <p align="center">https://ritankarsaha-portfolio.netlify.app/</p>
+<p align="center">https://medium.com/@ritankar.saha786/</p>
 <img align="center" src="https://komarev.com/ghpvc/?username=ritankarsaha&label=My+Visitors&color=blueviolet">
 
 <h3>📌&nbsp&nbspAbout me </h3>
  
-- 👨🏽‍💻 Past SDE Intern at Codemod.
-- 👨🏽‍💻 Core Member of Bitbyte, The Programming Club of Indian Institute Of Information Technology , Jabalpur
+- 🌐 Google Summer of Code'2025 at [Sw360](https://github.com/eclipse-sw360)
+- ₿ Summer of Bitcoin'2025 at [Blockcore(Angor)](https://github.com/block-core)
+- 🏛️ Code for Gov Tech DM'2025 at SocialCalc & EtherCalc.
 - 👨‍🏫 BTech CSE sophmore at Indian Institute Of Information Technology , Jabalpur
-- 👨🏽‍💻 Interested in Competitive Programming, Backend Development, Bitcoin, Web3 and Cloud Technologies.
-- 🌱 I’m currently exploring Spring Boot, Go & Web3 related technologies.
+- 👨🏽‍💻 Interested in Competitive Programming, Backend Development, Bitcoin, Web3 and Cloud Related Technologies.
+- 🌱 I’m currently exploring Spring Boot, Go, Bitcoin & Web3 related technologies.
+- 👨🏽‍💻 Core Member of Bitbyte, The Programming Club at Indian Institute Of Information Technology , Jabalpur
 - 💬 Ask me about Software Development, System Design or Backend Web Development. I'd love to answer!
 - 📫 Email me at ritankar.saha786@gmail.com
  
@@ -51,8 +54,12 @@
  
  <h3>📌&nbsp&nbspFind me on</h3>
  <br>
-<p>
-  <a href="https://www.linkedin.com/in/ritankar-saha-8041b9289/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--_.svg?style=social&logo=linkedin"/>
+<p align="left">
+  <a href="https://www.linkedin.com/in/ritankar-saha-8041b9289/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@ritankar.saha786" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </p>
+
