@@ -51,6 +51,12 @@
   
 
 <hr/>
+
+![lfel1006-securing-projects-with-openssf-scorecard (1)](https://github.com/user-attachments/assets/edff31d6-143c-4808-8e73-4a32a83d8be2)
+![lfd102-a-beginner-s-guide-to-open-source-software-development](https://github.com/user-attachments/assets/f6af1adf-6c0d-421a-8b8b-ca080062aeb3)
+
+
+
  
  <h3>📌&nbsp&nbspFind me on</h3>
  <br>
