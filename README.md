@@ -27,7 +27,6 @@
  
 - 🌐 Google Summer of Code'2025 @ [Sw360](https://github.com/eclipse-sw360)
 - ₿ Summer of Bitcoin'2025 @ [Blockcore(Angor)](https://github.com/block-core)
-- 🐧 Linux Foundation'2025 @ [LF Energy - Hyphae APIS](https://github.com/hyphae)
 - 🏛️ C4GT DMP'2025 at [SocialCalc](https://github.com/seetadev/socialcalc)
 </div>
 
